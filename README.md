@@ -1,5 +1,7 @@
 # Asteroids - Game from 1979
 
+[Click Here to visit website](https://kireet7852.github.io/asteroids/)
+
 Asteroids website is like a back to the past when the Internet was just a newborn and IT just had the first boom! After Atari and Commodore world became different forever! 
 
 <p><img alt="Image" title="icon" src="wireframes/mockup.png" /></p>
@@ -127,35 +129,7 @@ Saving the best score of a game - works
 Losing lives after hitting by asteroids -works
 I discovered one bug that I can not fix because of a lack of time. In HTML left inline styling for canvas. I tried to fix that by adding styling in CSS but it breaks the whole website.
 
-#### Go to the Social Links in footer section
 
-Try to press on Github icon and be redirected to Github opened up with my profile - fully working
-Try to press on the Instagram icon and be redirected to Instagram page opened up in new tab with my profile - fully working
-Try to press on the Linkedin icon and be redirected to Linkedin opened up with my profile - fully working
-The project is fully responsive on large screens as well as desktops or laptops and medium-size devices. Pixel 3XL and small phones as iPhone 5s. There is no bugs and website fully works on browsers like Firefox, Opera or Internet Explorer.
-
-
-
-## Deployment
-
-* To deploy my website I had to log on to browser to my personal GitHub account s and click on my repository with Asteroids - Milestone 2 project - that was patrycja-io/asteroids.
-Once I clicked my repo I showed a screen with setting and I had to click on this button like above:
-
-<p><img alt="Image" title="icon" src="wireframes/howtodeploy-1.PNG" /></p>
-
-* Than on settings I had to scroll to the end of this page :
-
-<p><img alt="Image" title="icon" src="wireframes/howtodeploy-2.PNG" /></p>
-
-* Than to find a section with Github Pages and click on source/ none button.
-And than from toggle menu change it to master branch:
-
-
-<p><img alt="Image" title="icon" src="wireframes/howtodeploy-3.PNG" /></p>
-
-* After when page refreshed I had a ready url with deployed website:
-
-<p><img alt="Image" title="icon" src="wireframes/howtodeploy-4.PNG" /></p>
 
 How to run this project locally
 ---
@@ -170,12 +144,6 @@ How to run this project locally
 
 5. Type git clone, and then paste the URL you copied in Step 3.
 
-```
-
-git clone https://github.com/patrycja-io/asteroids
-```
-
-Press Enter. Your local clone will be created.
 
 
 ## Credits
